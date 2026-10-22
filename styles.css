@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    color: #00FF00;
+}
+
+h1 {
+    color: #00FF00;
+    text-align: center;
+    font-size: 2em;
+}
+
+p {
+    color: #00FF00;
+    text-align: center;
+    font-size: 1em;
+}
